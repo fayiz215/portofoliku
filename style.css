@@ -55,7 +55,8 @@ body {
     gap: 30px;
     list-style: none;
     align-items:center;
-    margin-left: -280px;
+    margin-left: -10px;
+    margin-right:100px;
     
 
 }
