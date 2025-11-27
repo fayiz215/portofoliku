@@ -20,27 +20,6 @@ const projects = [
         tags: ["HTML", "CSS", "JavaScript"],
         link: "https://www.figma.com/design/9AfNEiz9CBYZ7loscoc0ZB/my-space-work?node-id=379-61&t=m7xvlL2H94Qko48n-1"
     },
-      {
-        title: "To-Do App",
-        image: "img/todo.jpg",
-        description: "Aplikasi daftar tugas dengan fitur tambah, hapus, dan simpan data.",
-        tags: ["HTML", "CSS", "JavaScript"],
-        link: "#"
-    },
-    {
-        title: "Weather App",
-        image: "img/weather.jpg",
-        description: "Aplikasi untuk melihat cuaca realtime menggunakan API.",
-        tags: ["HTML", "CSS", "JavaScript", "API"],
-        link: "#"
-    },
-    {
-        title: "Login Form UI",
-        image: "img/login.jpg",
-        description: "Desain halaman login modern dan minimalis.",
-        tags: ["HTML", "CSS", "UI/UX"],
-        link: "#"
-    },
 ];
 
 const gallery = document.getElementById("gallery");
