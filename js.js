@@ -47,7 +47,7 @@ for (let i = 0; i < projects.length; i++) {
 
     const linkBtn = document.createElement("a");
     linkBtn.href = project.link;
-    linkBtn.textContent = "Lihat Project";
+    linkBtn.textContent = "View Project";
     linkBtn.target = "_blank"
     linkBtn.className = "btnpj";
 
