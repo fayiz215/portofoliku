@@ -55,8 +55,8 @@ body {
     gap: 30px;
     list-style: none;
     align-items:center;
-    margin-left: -10px;
-    margin-right:400px;
+    margin-left: -100px;
+    
     
 
 }
@@ -221,7 +221,7 @@ h2{
 font-size: 50px;
     margin-bottom: 15px;
     color: #007bff;
-    margin-left: 50px;
+    margin-left: 35px;
     margin-right: 20px;
     transition: 0.2s ease-in-out;
     
@@ -232,7 +232,7 @@ font-size: 50px;
  font-size: 20px;
     margin: 10px 0;
     color: #ddd;
-    margin-left: 50px;
+    margin-left: 35px;
     max-width: 95%;
     transition: 0.3s ease;
 }
